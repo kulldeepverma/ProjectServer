@@ -11,7 +11,6 @@ ResourceName,ResourceEmailAddress,EmpRate
 Kuldeep, kuldeep.verma@xyz.com, 10000
 Rajdeep, rajdeep.sardesai@xyz.com, 20000
 Jaydeep, Jaydeep.prajapat@xyz.com, 40000
-Amrita Japtap, Amrita.jagtap@xyz.com, 20000
 #>
 
 #Download and install Microsoft Client Component from https://www.microsoft.com/en-in/download/details.aspx?id=42038 
